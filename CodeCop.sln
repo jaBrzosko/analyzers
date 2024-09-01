@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeCopAnalyzer", "CodeCopAnalyzer\CodeCopAnalyzer\CodeCopAnalyzer.csproj", "{94EB4E34-99FD-4AF8-9098-67EACD04A573}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeCopAnalyzer.Sample", "CodeCopAnalyzer\CodeCopAnalyzer.Sample\CodeCopAnalyzer.Sample.csproj", "{4673C38D-D139-4C8F-B0CB-8E8AAB19A81E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94EB4E34-99FD-4AF8-9098-67EACD04A573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94EB4E34-99FD-4AF8-9098-67EACD04A573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94EB4E34-99FD-4AF8-9098-67EACD04A573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94EB4E34-99FD-4AF8-9098-67EACD04A573}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4673C38D-D139-4C8F-B0CB-8E8AAB19A81E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4673C38D-D139-4C8F-B0CB-8E8AAB19A81E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4673C38D-D139-4C8F-B0CB-8E8AAB19A81E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4673C38D-D139-4C8F-B0CB-8E8AAB19A81E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
